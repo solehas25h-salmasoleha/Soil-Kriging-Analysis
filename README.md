@@ -7,7 +7,6 @@ Repository ini berisi analisis geostatistika untuk mengetahui pola distribusi sp
 Analisis dilakukan berdasarkan data titik pengamatan tanah yang memiliki informasi koordinat lokasi dan nilai konsentrasi Zinc. Metode Ordinary Kriging digunakan untuk melakukan interpolasi spasial sehingga dapat memperkirakan nilai Zinc pada lokasi yang tidak dilakukan pengamatan secara langsung.
 
 Tahapan analisis meliputi eksplorasi data, transformasi data, analisis variogram, pemodelan variogram, prediksi spasial, validasi model, analisis ketidakpastian, dan transformasi kembali ke skala asli.
-
 Seluruh proses analisis dilakukan menggunakan Python melalui Google Colab.
 
 ---
