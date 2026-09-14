@@ -255,9 +255,9 @@ Ketidakpastian meningkat pada area yang jauh dari titik pengamatan karena inform
 
 Karena analisis menggunakan transformasi logaritma, hasil prediksi dikembalikan ke skala asli menggunakan:
 
-\[
+ $$\[
 Z = e^{Z'}
-\]
+\]$$
 
 
 Tahapan ini dilakukan agar nilai prediksi Zinc dapat diinterpretasikan dalam satuan asli.
@@ -328,7 +328,8 @@ Peta prediksi dan analisis ketidakpastian memberikan informasi mengenai pola pen
 # Author
 
 Nama:
-(Tulis nama Anda)
+Salma Soleha H062252013
+Salwa Soleha H062252013
 
 Project:
 Analisis Spasial Kandungan Zinc Tanah Menggunakan Ordinary Kriging
