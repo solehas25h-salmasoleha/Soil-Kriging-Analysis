@@ -147,9 +147,9 @@ Berdasarkan hasil eksplorasi, distribusi Zinc menunjukkan pola menceng ke kanan 
 
 Untuk menstabilkan varians dilakukan transformasi:
 
-\[
-Z' = ln(Z)
-\]
+$$
+Z' = \ln(Z)
+$$
 
 
 Transformasi bertujuan untuk:
