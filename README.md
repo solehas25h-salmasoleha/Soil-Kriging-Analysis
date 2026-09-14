@@ -255,9 +255,9 @@ Ketidakpastian meningkat pada area yang jauh dari titik pengamatan karena inform
 
 Karena analisis menggunakan transformasi logaritma, hasil prediksi dikembalikan ke skala asli menggunakan:
 
- $$\[
+$$
 Z = e^{Z'}
-\]$$
+$$
 
 
 Tahapan ini dilakukan agar nilai prediksi Zinc dapat diinterpretasikan dalam satuan asli.
