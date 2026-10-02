@@ -84,9 +84,8 @@ Model mampu menjelaskan sekitar 70,47% variasi Log(Zinc). Residual menyebar di s
 
 ## Penulis
 
-**Salwa Soleha**
+**Salma Soleha H062252011**
+**Salwa Soleha H062252013**
 *(Universitas Hasanuddin / Magister Statistika)*
 
-## Lisensi
 
-*(Contoh: MIT License. Hapus bagian ini jika tidak diperlukan.)*
